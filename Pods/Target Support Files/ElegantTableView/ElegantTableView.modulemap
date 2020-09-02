@@ -1,0 +1,6 @@
+framework module ElegantTableView {
+  umbrella header "ElegantTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
