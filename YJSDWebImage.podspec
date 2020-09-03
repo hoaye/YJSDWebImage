@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "YJSDWebImage"
-  s.version      = "5.9.0"
+  s.version      = "5.9.0.1"
   s.summary      = "SDWebImage 静态库"
   s.homepage     = "https://github.com/monetking/YJSDWebImage"
   s.license      = "MIT"
